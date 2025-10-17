@@ -51,7 +51,7 @@
 <a href="https://createmytoken.net/create-token" class="nav-link action-button">
   Create Token on Fantom
 </a>
-			<a href="https://solana.createmytoken.net/" class="nav-link action-button">
+			<a href="https://createmytoken.net/solana-token-creator/spl-token/" class="nav-link action-button">
   Solana SPL Token Creator
 </a>
 		</a>
